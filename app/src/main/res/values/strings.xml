@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Timer App</string>
+    <string name="action_settings">Settings</string>
+    <string name="counter">counter</string>
+    <string name="click_the_button_to_start_timing">Click the button to start timing</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>
